@@ -32,4 +32,4 @@ The Application will start running on http://localhost:8080
 
 ## Links
 
-Go Developers: https://hng.tech//hire/golang-developers
+[Go Developers](https://hng.tech/hire/golang-developers)
